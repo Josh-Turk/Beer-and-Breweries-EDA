@@ -8,7 +8,7 @@ A video presentation can be found here:
 
 The data contained in these two csv files are as follows:
 
-Beers.csv:
+## Beers.csv:
 
 Name: Name of the beer.
 
@@ -24,7 +24,7 @@ Style: Style of the beer.
 
 Ounces: Ounces of beer.
 
-Breweries.csv:
+## Breweries.csv:
 
 Brew_ID: Unique identifier of the brewery.
 
